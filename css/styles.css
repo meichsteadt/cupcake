@@ -1,7 +1,8 @@
 body {
   font-family: monospace;
   text-align: justify;
-  margin: 0 200px;
+  margin: 0 auto;
+  max-width: 855px;
 }
 
 p {
@@ -25,6 +26,10 @@ h3 {
   font-size: 24px;
 }
 
+footer {
+  margin-top: 50px;
+  text-align: center;
+}
 .logo-header {
   width: 210px;
   height: auto;
@@ -50,6 +55,7 @@ h3 {
 
 .img-smaller {
   width: 60%;
+  max-width: 460px;
 }
 .col-right > img {
   float: right;
@@ -74,4 +80,8 @@ small > p {
   color: #777;
   float: right;
   margin: 0px;
+}
+
+#artisan {
+  margin-top: 100px;
 }
