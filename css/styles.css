@@ -81,11 +81,3 @@ small p {
   float: right;
   margin: 0px;
 }
-
-a:visited {
-  color: inherit;
-}
-
-a:hover {
-  color: red;
-}
