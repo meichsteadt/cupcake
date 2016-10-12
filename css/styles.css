@@ -34,6 +34,11 @@ h3 {
   color: #f7b705;
 }
 
+.best {
+  color: #772121;
+  font-weight: bolder;
+  font-style: italic;
+}
 .center {
   text-align: center;
 }
